@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://dash.cebolinhahost.online">
-    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" alt="Cebolinha Host" width="300"/>
-  </a>
-</p><p align="center">
-  <a href="https://dash.cebolinhahost.online">
     <img src="https://img.shields.io/badge/🌐%20Acessar%20Painel%20da%20Host-Clique%20Aqui-2ea44f?style=for-the-badge"/>
   </a>
 </p>---
 
 ✨ HOST PARCEIRAS ✨
 
-🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
+<p align="center">
+  <a href="https://dash.cebolinhahost.online">
+    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" alt="Cebolinha Host" width="300"/>
+  </a>
+</p>🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
 👨‍💻 Com ajuda de outros programadores.
 
 🚀 Bot simples, eficiente e fácil de usar para o WhatsApp.
