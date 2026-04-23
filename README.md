@@ -46,7 +46,8 @@ Comando| Função
 
 - Devid
 - Cebolinha Host
-- Colaboradores
+- Colaborador Cássio
+- Entre outros
 
 ---
 
@@ -66,6 +67,30 @@ Comando| Função
 🤝 Parcerias abertas
 
 Interessado em parceria? Entre em contato e faça parte do projeto!
+
+---
+
+📲 Como conectar
+
+⚠️ Não adicione o número 9 se o número não for de SP ou RJ
+
+🔹 Passo 1
+
+<p align="center">
+  <img src="https://i.postimg.cc/6pxqvbMj/IMG-20260423-WA0079.jpg" width="250"/>
+</p>🔹 Passo 2
+
+<p align="center">
+  <img src="https://i.postimg.cc/xTw5bYrg/IMG-20260423-WA0081.jpg" width="250"/>
+</p>🔹 Passo 3
+
+<p align="center">
+  <img src="https://i.postimg.cc/GtZFYPfR/IMG-20260423-WA0083.jpg" width="250"/>
+</p>🔹 Passo 4
+
+<p align="center">
+  <img src="https://i.postimg.cc/HLpQQk6N/IMG-20260423-WA0080.jpg" width="250"/>
+</p>🎉 Agora é só ser feliz!
 
 ---
 
