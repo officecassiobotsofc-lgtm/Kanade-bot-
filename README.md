@@ -2,17 +2,10 @@
 
 ---
 
-✨ HOST PARCEIRAS ✨
-
-<p align="center">
-  <a href="https://dash.cebolinhahost.online">
-    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" alt="Cebolinha Host" width="300"/>
-  </a>
-</p>🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
+🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
 👨‍💻 Com ajuda de outros programadores.
 
 🚀 Bot simples, eficiente e fácil de usar para o WhatsApp.
-
 💡 Sempre em melhorias para trazer a melhor experiência!
 
 ---
@@ -49,19 +42,30 @@ Comando| Função
 
 ---
 
-🌐 Painel da Host
-
-<p align="center">
-  <a href="https://dash.cebolinhahost.online">
-    <img src="https://img.shields.io/badge/Entrar%20na%20Host-Cebolinha%20Host-blue?style=for-the-badge"/>
-  </a>
-</p>---
-
 👨‍💻 Créditos
 
 - Devid
 - Cebolinha Host
 - Colaboradores
+
+---
+
+✨ HOST PARCEIRA ✨
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t">
+    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" width="150"/>
+  </a>
+</p>👉 Grupo oficial:
+https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t
+
+---
+
+📋 Sumário
+
+- Instalação
+- Configuração
+- Comandos
 
 ---
 
