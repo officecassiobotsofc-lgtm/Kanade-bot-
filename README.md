@@ -52,20 +52,20 @@ Comando| Função
 
 ✨ HOST PARCEIRA ✨
 
-<p align="center">
-  <a href="https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t">
-    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" width="150"/>
-  </a>
-</p>👉 Grupo oficial:
-https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t
+<table>
+<tr>
+<td align="center"><b>Cebolinha Host</b><br>
+<a href="https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t">Grupo oficial</a><br><br>
 
----
+<a href="https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC?mode=gi_t">
+<img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" width="120"/>
+</a></td>
+</tr>
+</table>---
 
-📋 Sumário
+🤝 Parcerias abertas
 
-- Instalação
-- Configuração
-- Comandos
+Interessado em parceria? Entre em contato e faça parte do projeto!
 
 ---
 
