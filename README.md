@@ -89,6 +89,10 @@ Interessado em parceria? Entre em contato e faça parte do projeto!
 </p>🔹 Passo 4
 
 <p align="center">
+  <img src="https://i.postimg.cc/SNFVnkbC/IMG-20260423-WA0082.jpg" width="250"/>
+</p>🔹 Passo 5
+
+<p align="center">
   <img src="https://i.postimg.cc/HLpQQk6N/IMG-20260423-WA0080.jpg" width="250"/>
 </p>🎉 Agora é só ser feliz!
 
