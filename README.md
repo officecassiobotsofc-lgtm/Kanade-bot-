@@ -12,11 +12,7 @@
 
 ✨ HOST PARCEIRAS ✨
 
-<p align="center">
-  <a href="https://dash.cebolinhahost.online">
-    <img src="https://i.postimg.cc/D0RnQmFq/IMG-20260228-WA0515.jpg" alt="Host Parceiras" width="250"/>
-  </a>
-</p>🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
+🤖 Este bot foi criado por Devid, em parceria com a Cebolinha Host 💚
 👨‍💻 Com ajuda de outros programadores.
 
 🚀 Bot simples, eficiente e fácil de usar para o WhatsApp.
@@ -36,8 +32,8 @@
 
 🚀 Instalação
 
-git clone https://github.com/seuusuario/kanade-bot.git
-cd kanade-bot
+git clone git@github.com:officecassiobotsofc-lgtm/Kanade-bot-.git
+cd Kanade-bot-
 npm install
 
 ---
